@@ -1,1 +1,1 @@
-# DataStructures-DynamicArray-and-LInkedList
+# DataStructures-DynamicArray-and-LinkedList
